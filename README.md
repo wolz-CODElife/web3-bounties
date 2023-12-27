@@ -34,8 +34,8 @@ Contributions to this repository are encouraged! Follow these steps:
    | [Project Name](https://project-homepage.com) | $X,XXX | [Link Description](https://project-homepage.com/bug-bounty) |
    ```
 5. Make sure the information is accurate and up-to-date.
-6. Create a pull request to merge your changes into the main repository.
-7. Announce your contribution on Twitter and tag `@YourTwitterHandle`.
+6. Create a pull request to the main repository.
+7. Announce your contribution on Twitter and tag `@wolz-codelife`.
 
 ## Disclaimer 🫵
 The content available in this repository is intended for informational purposes only. We do not test or validate the legitimacy of any bounty programs listed here. Users participate in these programs at their own risk. Please carefully review the specific terms and conditions before participating. If you encounter any issues with a bounty, please raise an issue on this repository to create awareness.
