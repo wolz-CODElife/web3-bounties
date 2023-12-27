@@ -5,12 +5,12 @@ Welcome to the Web3 Bounties repository! This space is dedicated to curating a l
 
 Before you go too far, don't forget to star this repository 🌟.
 
-To navigate and find web3 bounties, follow the sections below:
-
-- [List of Bounty Programs](#list-of-bounty-programs): Discover independently hosted bug bounty programs with substantial rewards.
-- [How to Contribute](#how-to-contribute): Contribute to this collection and help grow the list of web3 bounties.
-- [Disclaimer](#disclaimer): Read important information regarding the legitimacy and responsibility of the listed bounties.
-- [License](#license): Understand the licensing terms for this repository.
+|Table of Contents |
+|----------------|
+|[List of Bounty Programs](#list-of-bounty-programs-)|
+|[How to Contribute](#how-to-contribute-%EF%B8%8F)|
+|[Disclaimer](#disclaimer-)|
+|[License](#license-)|
 
 ## List of Bounty Programs 🚧
 Explore the table below for a list of web3 bug bounty programs. Contribute by adding new programs following the contribution guide.
