@@ -1,7 +1,7 @@
 # Web3 Bounties
 
 ## Getting Started 🏁
-Welcome to the Web3 Bounties repository! This space is dedicated to curating a list of web3 bug bounty programs that offer rewards in cash, NFTs, swags, and more. If you're a security researcher or ethical hacker looking to contribute to the decentralized future, you're in the right place.
+Welcome to the Web3 Bounties repository! This space is dedicated to curating a list of web3 bounty programs that offer rewards in cash, NFTs, swags, and more. If you're a developer, content creator, designer or even influencer looking to contribute to the decentralized future, you're in the right place.
 
 Before you go too far, don't forget to star this repository 🌟.
 
