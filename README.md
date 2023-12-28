@@ -21,6 +21,7 @@ Explore the table below for a list of web3 bug bounty programs. Contribute by ad
 |[Waku Bounties](https://waku.org/)|Crypto 1000DAI|https://github.com/waku-org/bounties.git|
 | [Example Project](https://example.com) | $X,XXX | [Bounty Link](https://example.com/web3-bounties) |
 | [Another Project](https://anotherexample.com) | $XX,XXX | [Bounty Link](https://anotherexample.com/bounties) |
+| [Immunefi](https://immunefi.com/hackers/) | $250 - $5M | [Protocols](https://immunefi.com/explore/)
 
 
 ## How to Contribute ✍️
